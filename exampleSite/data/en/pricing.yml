@@ -12,16 +12,12 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: Silver
-    price: "$149"
-    unit: month
+  - name: '"Pour deux"'
+    price: 195€
+    unit: Deux personnes
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - Studio
+    - Exterieur
     button:
       label: Signup
       link: "#"
