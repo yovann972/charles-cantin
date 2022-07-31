@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Tarifs et prestations
+  title: Tarifs et Prestations
   pricing_table:
   - name: '"J''immortalise l''évennement"'
     price: sur mesure
