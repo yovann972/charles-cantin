@@ -10,11 +10,11 @@ portfolio:
     - mariage
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: Mariage Megan et Eric
+    image: "/images/mariage-3.jpg"
+    image_webp: "/images/mariage-3.webp"
     categories:
-    - Grossesse
+    - Mariage
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
