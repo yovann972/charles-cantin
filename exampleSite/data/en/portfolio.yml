@@ -27,7 +27,8 @@ portfolio:
   - name: Grossesse Emilie
     image: "/images/grossesse2.jpg"
     image_webp: "/images/grossesse2.webp"
-    categories: []
+    categories:
+    - Grossesse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
