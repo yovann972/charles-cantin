@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Bebe Star
+    image: "/images/bebe3.jpg"
+    image_webp: "/images/bebe3.webp"
+    categories:
+    - Bebe
+    content: ''
+    link: ''
   - name: Bebe et son doudou
     image: "/images/bebe2.jpg"
     image_webp: "/images/bebe2.webp"
