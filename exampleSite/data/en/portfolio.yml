@@ -37,11 +37,11 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+  - name: Grossesse Céline
+    image: "/images/grossesse1.jpg"
+    image_webp: "/images/grossesse1.webp"
     categories:
-    - photography
+    - Grossesse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
