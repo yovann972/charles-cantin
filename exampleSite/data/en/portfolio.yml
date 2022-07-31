@@ -51,12 +51,11 @@ portfolio:
     - Famille
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
+  - name: Famille Forestier
+    image: "/images/famille2.jpg"
+    image_webp: "/images/famille2.webp"
     categories:
-    - design
-    - development
+    - Famille
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
