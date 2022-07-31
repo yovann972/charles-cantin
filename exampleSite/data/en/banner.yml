@@ -4,10 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Charles Cantin
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Charles Cantin - Photographe
+  content: ''
   button:
-    enable: true
+    enable: false
     label: Explore Us
     link: "#services"
