@@ -65,7 +65,7 @@ url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "Site Web de Charles Cantin photographe"
 google_analytics_id = ""
 logo = "/images/logo-charles-cantin.png"
 post_share = true
