@@ -4,7 +4,7 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
+    image: ''
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - mariage
