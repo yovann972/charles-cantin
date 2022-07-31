@@ -58,11 +58,10 @@ portfolio:
     - Famille
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: Famille Wang
+    image: "/images/famille3.jpg"
+    image_webp: "/images/famille3.webp"
     categories:
-    - design
-    - photography
+    - Famille
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
