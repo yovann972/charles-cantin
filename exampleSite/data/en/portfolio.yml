@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Portfolio
   portfolio_item:
   - name: Baptême 2
     image: "/images/bapteme2.jpg"
