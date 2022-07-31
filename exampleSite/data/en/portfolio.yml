@@ -3,9 +3,9 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Tag Design
-    image: ''
-    image_webp: images/portfolio/portfolio-1.webp
+  - name: Mariage Jean et Claudia
+    image: "/images/mariage1.jpg"
+    image_webp: "/images/mariage1.webp"
     categories:
     - mariage
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
