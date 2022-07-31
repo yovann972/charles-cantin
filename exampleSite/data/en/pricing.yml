@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: '"j''immortalise l''évennement"'
+  - name: '"J''immortalise l''évennement"'
     price: sur mesure
     unit: devis
     services:
