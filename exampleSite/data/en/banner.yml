@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/camera-g7492e8938_1920.webp"
+  bg_image: "/images/camera-g7492e8938_1920.jpg"
   icon: ''
   title: Charles Cantin - Photographe
   content: ''
