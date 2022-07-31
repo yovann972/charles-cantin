@@ -14,7 +14,7 @@ portfolio:
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - development
+    - Grossesse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
