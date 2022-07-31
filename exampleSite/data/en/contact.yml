@@ -11,8 +11,6 @@ contact:
     info: France, Paris
   - icon: ti-mobile
     info: 'Phone: +33 0 00 00 00 00'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
