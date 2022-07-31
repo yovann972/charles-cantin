@@ -97,7 +97,8 @@ portfolio:
   - name: Grossesse Valentine
     image: "/images/grossesse3.jpg"
     image_webp: "/images/grossesse3.webp"
-    categories: []
+    categories:
+    - Grossesse
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Grossesse Céline
