@@ -17,11 +17,11 @@ portfolio:
     - Mariage
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+  - name: Mariage Faustine et Pierre
+    image: "/images/mariage-2.jpg"
+    image_webp: "/images/mariage-2.webp"
     categories:
-    - bebe
+    - Mariage
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
