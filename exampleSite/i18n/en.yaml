@@ -1,6 +1,6 @@
 ---
-- id: blogTitle
-  translation: Latest Post
+- id: Menu
+  translation: Menu
 - id: readMore
   translation: Read more
 - id: viewAllPost
