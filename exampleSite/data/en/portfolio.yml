@@ -22,11 +22,11 @@ portfolio:
     categories: []
     content: ''
     link: ''
-  - name: Bebe joueur
+  - name: Playful baby
     image: "/images/bebe1.jpg"
     image_webp: "/images/bebe1.webp"
     categories:
-    - Bebe
+    - Baby
     content: ''
     link: ''
   - name: Bebe Star
