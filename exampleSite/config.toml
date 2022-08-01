@@ -64,7 +64,7 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Yovann"
 description = "Site Web de Charles Cantin photographe"
 google_analytics_id = ""
 logo = "/images/logo-charles-cantin.png"
