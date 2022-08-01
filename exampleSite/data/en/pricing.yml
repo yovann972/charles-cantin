@@ -57,5 +57,5 @@ pricing:
     - Extérieur
     - A votre domicile
     button:
-      label: ''
-      link: ''
+      label: Contactez-moi
+      link: "#contact"
