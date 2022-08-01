@@ -44,10 +44,10 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:themefisher/meghna-hugo.git
+https://github.com/yovann972/charles-cantin
 
 # cd in the project directory
-$ cd meghna-hugo/exampleSite/
+$ cd charles-cantin/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
