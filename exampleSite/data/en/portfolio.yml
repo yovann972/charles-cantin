@@ -122,7 +122,7 @@ portfolio:
     - Family
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Famille Wang
+  - name: " Wang Family"
     image: "/images/famille3.jpg"
     image_webp: "/images/famille3.webp"
     categories:
