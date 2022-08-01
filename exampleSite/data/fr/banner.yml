@@ -7,6 +7,6 @@ banner:
   title: Charles Cantin
   content: Photographe
   button:
-    enable: true
+    enable: false
     label: ''
     link: ''
