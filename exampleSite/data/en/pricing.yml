@@ -49,13 +49,13 @@ pricing:
     button:
       label: Join-me
       link: "#contact"
-  - name: '"Il était une fois"'
-    price: 160€
+  - name: '"Once upon a time"'
+    price: "$160"
     unit: seance
     services:
+    - At home
+    - Outdoors
     - Studio
-    - Extérieur
-    - A votre domicile
     button:
-      label: Contactez-moi
+      label: Join-me
       link: "#contact"
