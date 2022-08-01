@@ -21,12 +21,12 @@ pricing:
     button:
       label: Join-me
       link: "#contact"
-  - name: '"Juste moi"'
-    price: 130€
-    unit: Seance pour 1 personne
+  - name: '"Just me"'
+    price: "$130"
+    unit: for 1person
     services:
-    - Studio
-    - Exterieur
+    - Outdoors
+    - at studio
     button:
       label: Contactez-moi
       link: "#contact"
