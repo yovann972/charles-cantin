@@ -69,7 +69,8 @@ portfolio:
   - name: Couple Novick
     image: "/images/couple1.jpg"
     image_webp: "/images/couple1.webp"
-    categories: ''
+    categories:
+    - Couple
     content: ''
     link: ''
   - name: Bébé et son doudou
