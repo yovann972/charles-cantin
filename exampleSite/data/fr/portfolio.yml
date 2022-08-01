@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Grossesse Valentine
+    image: "/images/grossesse3.jpg"
+    image_webp: "/images/grossesse3.webp"
+    categories:
+    - Grossesse
+    content: ''
+    link: ''
   - name: Mariage Faustine et Pierre
     image: "/images/mariage-2.jpg"
     image_webp: "/images/mariage-2.webp"
