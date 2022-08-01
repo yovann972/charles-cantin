@@ -10,11 +10,10 @@ portfolio:
     - Baptism
     content: ''
     link: ''
-  - name: Décoration de la salle de Baptême
+  - name: Baptism room
     image: "/images/salle-bapteme.jpg"
     image_webp: "/images/salle-bapteme.webp"
-    categories:
-    - Bapteme
+    categories: []
     content: ''
     link: ''
   - name: Baptême 1

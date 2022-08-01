@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Décoration de la salle de Baptême
+    image: "/images/salle-bapteme.jpg"
+    image_webp: "/images/salle-bapteme.webp"
+    categories:
+    - Bapteme
+    content: ''
+    link: ''
   - name: Baptême 2
     image: "/images/bapteme2.jpg"
     image_webp: "/images/bapteme2.webp"
