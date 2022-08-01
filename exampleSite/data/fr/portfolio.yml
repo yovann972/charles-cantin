@@ -3,11 +3,11 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Marriage Faustine et Pierre
+  - name: Mariage Faustine et Pierre
     image: "/images/mariage-2.jpg"
     image_webp: "/images/mariage-2.webp"
     categories:
-    - Marriage
+    - Mariage
     content: ''
     link: ''
   - name: Mariage Megan et Eric
