@@ -99,7 +99,7 @@ portfolio:
     - Pregnancy
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Grossesse Céline
+  - name: Pregnancy Céline
     image: "/images/grossesse1.jpg"
     image_webp: "/images/grossesse1.webp"
     categories:
