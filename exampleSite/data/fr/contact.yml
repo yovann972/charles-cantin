@@ -15,7 +15,7 @@ contact:
     info: 'Email: charles-cantin@cantin.fr'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: POST
     name: votre nom
     email: Votre email
     subject: Matière
