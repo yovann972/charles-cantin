@@ -30,15 +30,15 @@ pricing:
     button:
       label: Contactez-moi
       link: "#contact"
-  - name: '"Pour deux"'
-    price: 195€
-    unit: Deux personnes
+  - name: '"Two persons"'
+    price: "$195"
+    unit: two persons
     services:
     - Studio
     - Exterieur
     button:
-      label: ''
-      link: ''
+      label: Join-me
+      link: Contact
   - name: '"Famille"'
     price: 220€
     unit: 4 personnes
