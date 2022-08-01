@@ -11,6 +11,7 @@ pricing:
     - Mariage
     button:
       link: "#contact"
+      label: contactez-moi
   - name: Mon Bébé
     price: 100€
     unit: séance
