@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Mariage Jean et Claudia
+  - name: Wedding Jean & Claudia
     image: "/images/mariage1.jpg"
     image_webp: "/images/mariage1.webp"
     categories:
