@@ -32,11 +32,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-[[Languages.fr.menu.main]]
-name = "portfolio"
+name = "Portfolio"
 url = "#portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
@@ -44,7 +40,7 @@ name = "Taris & Prestation"
 url = "#pricing"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 [params]
