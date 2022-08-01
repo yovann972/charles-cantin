@@ -36,33 +36,17 @@ name = "sur"
 url = "#about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "portfolio"
 url = "#portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
+name = "Taris & Prestation"
 url = "#pricing"
 weight = 5
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Yovann"
 description = "Site Web de Charles Cantin photographe"
