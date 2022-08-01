@@ -10,8 +10,8 @@ pricing:
     - Wedding
     - Baptism
     button:
-      link: "#contact"
-      label: Join-me
+      link: Join me
+      label: "#contact"
   - name: My Baby
     price: "$100"
     unit: séance

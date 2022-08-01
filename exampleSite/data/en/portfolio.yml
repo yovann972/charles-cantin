@@ -85,11 +85,10 @@ portfolio:
     - Wedding
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Grossesse Emilie
+  - name: Pregnancy Emilie
     image: "/images/grossesse2.jpg"
     image_webp: "/images/grossesse2.webp"
-    categories:
-    - Grossesse
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Pregnancy Valentine
