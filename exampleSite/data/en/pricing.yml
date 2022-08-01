@@ -3,8 +3,8 @@ pricing:
   enable: true
   title: Pricing
   pricing_table:
-  - name: '"J''immortalise l''évennement"'
-    price: sur mesure
+  - name: Event
+    price: On-demand
     unit: devis
     services:
     - Wedding
