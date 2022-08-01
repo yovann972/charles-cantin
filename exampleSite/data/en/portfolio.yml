@@ -13,7 +13,8 @@ portfolio:
   - name: Baptism room
     image: "/images/salle-bapteme.jpg"
     image_webp: "/images/salle-bapteme.webp"
-    categories: []
+    categories:
+    - Baptism
     content: ''
     link: ''
   - name: Baptism 1
