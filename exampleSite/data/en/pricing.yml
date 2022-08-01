@@ -28,8 +28,8 @@ pricing:
     - Studio
     - Exterieur
     button:
-      label: ''
-      link: ''
+      label: Contactez-moi
+      link: "#contact"
   - name: '"Pour deux"'
     price: 195€
     unit: Deux personnes
