@@ -53,5 +53,5 @@ pricing:
     - Extérieur
     - A votre domicile
     button:
-      label: Signup
-      link: "#"
+      label: ''
+      link: ''
