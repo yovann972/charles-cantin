@@ -78,7 +78,7 @@ portfolio:
     - Wedding
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Mariage Faustine et Pierre
+  - name: Wedding Faustine et Pierre
     image: "/images/mariage-2.jpg"
     image_webp: "/images/mariage-2.webp"
     categories:
