@@ -1,17 +1,17 @@
 ---
 pricing:
   enable: true
-  title: Tarifs et Prestations
+  title: Pricing
   pricing_table:
   - name: '"J''immortalise l''évennement"'
     price: sur mesure
     unit: devis
     services:
-    - Baptême
-    - Mariage
+    - Wedding
+    - Baptism
     button:
       link: "#contact"
-      label: Contactez-moi
+      label: Join-me
   - name: Mon Bébé
     price: 100€
     unit: séance
