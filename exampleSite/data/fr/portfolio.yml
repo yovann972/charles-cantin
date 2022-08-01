@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Bébé et son doudou
+    image: "/images/bebe2.jpg"
+    image_webp: "/images/bebe2.webp"
+    categories:
+    - Bébé
+    content: ''
+    link: ''
   - name: Bébé start
     image: "/images/bebe3.jpg"
     image_webp: "/images/bebe3.webp"
