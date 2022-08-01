@@ -3,6 +3,16 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: '"Famille"'
+    price: 220€
+    unit: 4 personnes
+    services:
+    - Extérieur
+    - Plus de 4 personnes 30€ suplémentaire, sauf enfant jusqu'à 3 ans
+    - Studio
+    button:
+      label: Contactez-moi
+      link: "#contact"
   - name: '"Pour deux"'
     price: 195€
     unit: deux personnes
