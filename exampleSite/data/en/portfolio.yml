@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Portfolio
   portfolio_item:
+  - name: Grossesse Emilie
+    image: "/images/grossesse2.jpg"
+    image_webp: "/images/grossesse2.webp"
+    categories:
+    - Grossesse
+    content: ''
+    link: ''
   - name: Baptism
     image: "/images/bapteme2.jpg"
     image_webp: "/images/bapteme2.webp"
@@ -88,7 +95,8 @@ portfolio:
   - name: Pregnancy Emilie
     image: "/images/grossesse2.jpg"
     image_webp: "/images/grossesse2.webp"
-    categories: []
+    categories:
+    - Pregnancy
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Pregnancy Valentine
