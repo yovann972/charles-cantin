@@ -20,7 +20,8 @@ portfolio:
   - name: Baptism 1
     image: "/images/bapteme1.jpg"
     image_webp: "/images/bapteme1.webp"
-    categories: []
+    categories:
+    - Baptism
     content: ''
     link: ''
   - name: Playful baby
