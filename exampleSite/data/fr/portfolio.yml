@@ -3,6 +3,20 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Famille Wang
+    image: "/images/famille3.jpg"
+    image_webp: "/images/famille3.webp"
+    categories:
+    - Famille
+    content: ''
+    link: ''
+  - name: Famille Forestier
+    image: "/images/famille2.jpg"
+    image_webp: "/images/famille2.webp"
+    categories:
+    - Famille
+    content: ''
+    link: ''
   - name: Famille Cardu
     image: "/images/famille1.jpg"
     image_webp: "/images/famille1.webp"

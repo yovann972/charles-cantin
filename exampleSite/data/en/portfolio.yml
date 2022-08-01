@@ -113,17 +113,17 @@ portfolio:
     - Family
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Famille Forestier
+  - name: Forestier  Family
     image: "/images/famille2.jpg"
     image_webp: "/images/famille2.webp"
     categories:
-    - Famille
+    - Family
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Famille Wang
     image: "/images/famille3.jpg"
     image_webp: "/images/famille3.webp"
     categories:
-    - Famille
+    - Family
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
