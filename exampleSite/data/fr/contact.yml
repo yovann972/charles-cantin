@@ -12,7 +12,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: +33 0 00 00 00 00'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: charles-cantin@cantin.fr'
   contact_form:
     enable: true
     form_action: "#"
