@@ -1,8 +1,8 @@
 ---
 contact:
   enable: true
-  title: Contact Us
-  subtitle: Contact Details
+  title: Contactez-moi
+  subtitle: 'Contact '
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
     dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
@@ -11,8 +11,6 @@ contact:
     info: Paris, France
   - icon: ti-mobile
     info: 'Phone: +33 0 00 00 00 00'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
     info: 'Email: hello@meghna.com'
   contact_form:
