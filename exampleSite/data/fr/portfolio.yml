@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Grossesse Céline
+    image: "/images/grossesse1.jpg"
+    image_webp: "/images/grossesse1.webp"
+    categories:
+    - Grossesse
+    content: ''
+    link: ''
   - name: Grossesse Valentine
     image: "/images/grossesse3.jpg"
     image_webp: "/images/grossesse3.webp"
