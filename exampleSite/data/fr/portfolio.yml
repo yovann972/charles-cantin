@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Couple Dumin
+    image: "/images/couple3.jpg"
+    image_webp: "/images/couple3.webp"
+    categories:
+    - Couple
+    content: ''
+    link: ''
   - name: Couple Loriou
     image: "/images/couple2.jpg"
     image_webp: "/images/couple2.webp"
