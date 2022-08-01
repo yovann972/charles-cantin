@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Couple Novick
+    image: "/images/couple1.jpg"
+    image_webp: "/images/couple1.webp"
+    categories: ''
+    content: ''
+    link: ''
   - name: Bébé et son doudou
     image: "/images/bebe2.jpg"
     image_webp: "/images/bebe2.webp"
