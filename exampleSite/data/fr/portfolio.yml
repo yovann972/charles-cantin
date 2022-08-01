@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Couple Loriou
+    image: "/images/couple2.jpg"
+    image_webp: "/images/couple2.webp"
+    categories: ''
+    content: ''
+    link: ''
   - name: Couple Novick
     image: "/images/couple1.jpg"
     image_webp: "/images/couple1.webp"
