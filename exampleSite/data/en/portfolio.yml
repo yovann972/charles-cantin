@@ -16,11 +16,10 @@ portfolio:
     categories: []
     content: ''
     link: ''
-  - name: Baptême 1
+  - name: Baptism 1
     image: "/images/bapteme1.jpg"
     image_webp: "/images/bapteme1.webp"
-    categories:
-    - Bapteme
+    categories: []
     content: ''
     link: ''
   - name: Bebe joueur
