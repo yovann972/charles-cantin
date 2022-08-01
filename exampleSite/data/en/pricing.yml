@@ -43,8 +43,8 @@ pricing:
     - Studio
     - Extérieur
     button:
-      label: Signup
-      link: "#"
+      label: ''
+      link: ''
   - name: '"Il était une fois"'
     price: 160€
     unit: seance
