@@ -47,7 +47,7 @@
 git clone git@github.com:themefisher/meghna-hugo.git
 
 # cd in the project directory
-$ d meghna-hugo/exampleSite/
+$ cd meghna-hugo/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
