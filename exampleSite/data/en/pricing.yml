@@ -39,16 +39,16 @@ pricing:
     button:
       label: Join-me
       link: Contact
-  - name: '"Famille"'
-    price: 220€
-    unit: 4 personnes
+  - name: '"Family"'
+    price: "$220"
+    unit: 4 persons
     services:
-    - Plus de 4 personnes 30€ supplémentaire/personne hormis enfant jusqu'à 2ans
+    - Outdoors
+    - More than 4 people $30 extra by persone except children up to 3 years old
     - Studio
-    - Extérieur
     button:
-      label: ''
-      link: ''
+      label: Join-me
+      link: "#contact"
   - name: '"Il était une fois"'
     price: 160€
     unit: seance
