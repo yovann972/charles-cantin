@@ -1,5 +1,5 @@
 baseURL = "https://charles-cantin.netlify.com"
-disableLanguages = ["fr"]
+disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
