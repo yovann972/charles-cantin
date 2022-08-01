@@ -106,11 +106,11 @@ portfolio:
     - Pregnancy
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Famille Cardu
+  - name: Cardu Family
     image: "/images/famille1.jpg"
     image_webp: "/images/famille1.webp"
     categories:
-    - Famille
+    - Family
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Famille Forestier

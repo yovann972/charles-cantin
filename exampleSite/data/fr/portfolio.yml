@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Famille Cardu
+    image: "/images/famille1.jpg"
+    image_webp: "/images/famille1.webp"
+    categories:
+    - Famille
+    content: ''
+    link: ''
   - name: Grossesse Céline
     image: "/images/grossesse1.jpg"
     image_webp: "/images/grossesse1.webp"
