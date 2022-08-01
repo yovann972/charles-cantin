@@ -70,9 +70,9 @@ portfolio:
     image: "/images/mariage1.jpg"
     image_webp: "/images/mariage1.webp"
     categories:
-    - Mariage
+    - Wedding
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
+    link: ''
   - name: Mariage Megan et Eric
     image: "/images/mariage-3.jpg"
     image_webp: "/images/mariage-3.webp"
