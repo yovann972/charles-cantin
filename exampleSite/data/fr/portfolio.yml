@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Bébé start
+    image: "/images/bebe3.jpg"
+    image_webp: "/images/bebe3.webp"
+    categories:
+    - Bébé
+    content: ''
+    link: ''
   - name: Bebe joueur
     image: "/images/bebe1.jpg"
     image_webp: "/images/bebe1.webp"

@@ -29,11 +29,11 @@ portfolio:
     - Baby
     content: ''
     link: ''
-  - name: Bebe Star
+  - name: Star Baby
     image: "/images/bebe3.jpg"
     image_webp: "/images/bebe3.webp"
     categories:
-    - Bebe
+    - Baby
     content: ''
     link: ''
   - name: Bebe et son doudou
