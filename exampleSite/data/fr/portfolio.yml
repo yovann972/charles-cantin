@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Mariage Faustine et Pierre
+  - name: Marriage Faustine et Pierre
     image: "/images/mariage-2.jpg"
     image_webp: "/images/mariage-2.webp"
     categories:
