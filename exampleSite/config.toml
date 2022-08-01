@@ -44,7 +44,7 @@ name = "Contact"
 url = "#contact"
 weight = 7
 [params]
-author = "Yovann"
+author = "Themefisher"
 description = "Site Web de Charles Cantin photographe"
 google_analytics_id = ""
 logo = "/images/logo-charles-cantin.png"
