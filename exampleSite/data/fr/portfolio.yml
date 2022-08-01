@@ -10,11 +10,11 @@ portfolio:
     - Bébé
     content: ''
     link: ''
-  - name: Bebe joueur
+  - name: Bébé joueur
     image: "/images/bebe1.jpg"
     image_webp: "/images/bebe1.webp"
     categories:
-    - Bebe
+    - Bébé
     content: ''
     link: ''
   - name: Baptême 1
