@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
+  - name: Mariage Megan et Eric
+    image: "/images/mariage-3.jpg"
+    image_webp: "/images/mariage-3.webp"
+    categories:
+    - Mariage
+    content: ''
+    link: ''
   - name: Couple Dumin
     image: "/images/couple3.jpg"
     image_webp: "/images/couple3.webp"
