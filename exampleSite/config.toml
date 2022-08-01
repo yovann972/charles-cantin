@@ -17,7 +17,7 @@ name = "portfolio"
 url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "Tarifs & Prestations"
+name = "Pricing & Services"
 url = "#pricing"
 weight = 5
 [[Languages.en.menu.main]]
