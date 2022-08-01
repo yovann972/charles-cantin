@@ -18,15 +18,6 @@
       alt="follow on Twitter"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37659754/54068559-44d79a80-4278-11e9-9601-f58d6879989c.gif"
-    alt="screenshot" width="100%">
-</p>
-
----
-
 ## Features
 
 - Multilingual support. (with language selector)
@@ -44,16 +35,15 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:themefisher/meghna-hugo.git
+git clone git@github.com:yovann972/charles-cantin.git
 
 # cd in the project directory
-$ cd meghna-hugo/exampleSite/
+$ cd charles-cantin/exampleSite/
 
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
 
-Or Check out [Full Documentation](https://docs.gethugothemes.com/meghna/?ref=github).
 
 ## Content Management System
 
