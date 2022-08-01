@@ -3,6 +3,16 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: '"Il était une fois"'
+    price: 160€
+    unit: Séance
+    services:
+    - A l'extérieur
+    - Studio
+    - A votre domicile
+    button:
+      label: Contactez-moi
+      link: "#contact"
   - name: '"Famille"'
     price: 220€
     unit: 4 personnes
