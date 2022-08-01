@@ -3,6 +3,15 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: Mon Bébé
+    price: 100€
+    unit: séance
+    services:
+    - Jusqu'à 3ans
+    - A domicile
+    button:
+      label: Contatez-moi
+      link: "#contact"
   - name: '"J''immortalise l''évennement"'
     price: sur mesure
     unit: devis
@@ -12,42 +21,3 @@ pricing:
     button:
       label: Contactez-moi
       link: "#contact"
-  - name: Silver
-    price: "$149"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
-  - name: Gold
-    price: "$199"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
-  - name: Platinum
-    price: "$299"
-    unit: month
-    services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
-    button:
-      label: Signup
-      link: "#"
