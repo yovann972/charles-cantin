@@ -71,7 +71,7 @@ portfolio:
     - Wedding
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Mariage Megan et Eric
+  - name: Wedding Megan et Eric
     image: "/images/mariage-3.jpg"
     image_webp: "/images/mariage-3.webp"
     categories:
