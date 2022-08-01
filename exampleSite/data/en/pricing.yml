@@ -12,14 +12,14 @@ pricing:
     button:
       link: "#contact"
       label: Join-me
-  - name: Mon Bébé
-    price: 100€
+  - name: My Baby
+    price: "$100"
     unit: séance
     services:
-    - photo à domicile
-    - Photo d'enfant jusqu'à 3ans
+    - child up to 3 years old
+    - at home
     button:
-      label: Contactez-moi
+      label: Join-me
       link: "#contact"
   - name: '"Juste moi"'
     price: 130€
