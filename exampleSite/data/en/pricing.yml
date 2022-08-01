@@ -19,7 +19,7 @@ pricing:
     - photo à domicile
     - Photo d'enfant jusqu'à 3ans
     button:
-      label: contactez-moi
+      label: Contactez-moi
       link: "#contact"
   - name: '"Juste moi"'
     price: 130€
