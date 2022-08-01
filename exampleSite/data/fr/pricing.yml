@@ -3,6 +3,15 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: '"Pour deux"'
+    price: 195€
+    unit: deux personnes
+    services:
+    - Exterieur
+    - Studio
+    button:
+      label: Contactez-moi
+      link: "#contact"
   - name: '"Juste moi"'
     price: 130€
     unit: Seance pour 1 personne
